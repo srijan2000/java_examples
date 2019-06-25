@@ -1,4 +1,4 @@
-package com.srijan.Test;
+package com.srijan.day14;
 
 public class Patient {
 
