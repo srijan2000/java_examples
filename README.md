@@ -20,3 +20,12 @@ create table customer(
 
 	PRIMARY KEY (id)
 )
+
+
+SELECT * FROM customer
+
+UPDATE customer SET first_name = "sri", last_name="ram", amount=9874, customer_id ="865456" WHERE email_id= "sri@gmail.com";
+
+INSERT INTO customer (first_name, last_name, email_id, amount,customer_id) VALUES ("sanju","samson","samson@gmail.com",847583,"190833");
+
+DELETE FROM customer WHERE email_id = "venn@gmail.com";
