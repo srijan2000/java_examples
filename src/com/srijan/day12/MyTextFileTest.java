@@ -1,4 +1,4 @@
-package com.srijan.Day12;
+package com.srijan.day12;
 
 import java.io.FileReader;
 import java.io.IOException;
